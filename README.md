@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezekiel Carreon</h1>
-<h3 align="center">A aspiring full-stack developer.</h3>
+<h3 align="center">A aspiring full-stack web developer.</h3>
 
 - 🌱 I’m currently learning **Laravel, and React.**
 
