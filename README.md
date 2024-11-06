@@ -20,7 +20,7 @@
   <a href="https://twitter.com/Teao291">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <h3><br>Hello :wave:, I'm Ezekiel, a student at Don Honorio State University, bringing my crazy ideas into a real web application. My goal is to become a Front-end Developer, crafting responsive & impressive animations for the web.</h3>
+  <h3><br>Hello :wave:, I'm Ezekiel, a student at Don Honorio Ventura State University, bringing my crazy ideas into a real web application. My goal is to become a Front-end Developer, crafting responsive & impressive animations for the web.</h3>
 </div>
   
 ![](header_.png)
