@@ -1,7 +1,7 @@
 ![](Bottom_up.svg)
 
 
-<h1>:man: About Myself </h1>
+<h1>🤓 About Myself </h1>
 
 <div id="header" align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=435&lines=I+am+Ezekiel+Jhon+from+Philippines;Studying+BS+Computer+Science;Aspiring Front-end+Developer" alt="Typing SVG" /></a><br>
