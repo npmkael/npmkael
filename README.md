@@ -57,7 +57,7 @@
   </tr>
   <tr>
 	 <td align="center" width="90">
-      <img src="https//skillicons.dev/icons?i=javascript" alt="icon" width="55" height="55" />
+      <img src="https//skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
     <td align="center" width="90">
