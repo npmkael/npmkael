@@ -94,35 +94,4 @@
   </table>
 
 <br></br>
-
-## 📊 Metrics
-<table>
-	<tr>
-		<td colspan="4"><a href = "https://NelTeano.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=npmkael&theme=react-dark" alt="NelTeano" /></a>
-		</td>
-	</tr>
-</table>
-
-<div align=center>
-  
-
-
-
-## 📊 GitHub Stats
-| Github Stats | Top Languages |
-| --- | --- |
-| ![kael's Stats](https://github-readme-stats.vercel.app/api?username=npmkael&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)|![kael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=npmkael&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  |
-![kaelo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=npmkael&theme=vue-dark&hide_border=true)
-<br/>
-
-  ## 🏆 GitHub Trophies
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=npmkael&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true" alt="NelTeano" /><br><h2></h2><br>
-</div>
-
-
-<div align="center" >
-
-
-  
-![NelTeano github stats](https://komarev.com/ghpvc/?username=npmkael&color=lightgrey) 
 </div>
