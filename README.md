@@ -3,7 +3,7 @@
 I’m [**Ezekiel**](npmkael,vercel.app), an aspiring front-end developer. I like building clean, modern interfaces prioritizing performance.
 
 **These days I’m focused on:**
-- React, NextJS TypeScript, Tailwind
+- React, NextJS, TypeScript, Tailwind
 - PHP, Laravel, REST APIs
 
 ---
